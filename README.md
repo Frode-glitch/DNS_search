@@ -1,4 +1,4 @@
-#DNS_search
+# DNS_search
 domain to ip and ip to domain
 
 os: windows
